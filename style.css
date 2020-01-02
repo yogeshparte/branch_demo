@@ -51,11 +51,11 @@ select { -webkit-appearance: none; border-radius: 0; }
 
 a { cursor: pointer; }
 
-body { color: #000000; }
+body { color: #000000 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn:focus { box-shadow: none; }
 
-body.scrollOver { overflow: hidden; position: relative; }
+body.scrollOver { overflow: hidden; position: relative; 
 
 /*Reset css End*/
 /* iclude partials start */
