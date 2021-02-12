@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T11:08:10.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="E-uRFfgSJLG6LQq9fc3x" version="13.0.1" type="github"><diagram id="xgx91Qhlt98eilZJFXm7" name="Page-1">7Vpdc5s4FP01fkwGJCD4MV9NdyeZ9U6626YvOwrIoEYgVojYzq+vZCQDhjjUIWM8U/vB6HAlwbk6V9KVJ/AyWd5wlMV3LMR0AqxwOYFXEwBsy/flj0JWJeJBUAIRJ6E2qoB78oJNTY0WJMR5w1AwRgXJmmDA0hQHooEhztmiaTZntNlrhiLcAu4DRNvoVxKKuER916rwz5hEsenZtvSdBBljDeQxCtmiBsHrCbzkjInyKlleYqrIM7yU9T69cnfzYBynok8F5PwT/3V164rCPYHfv738fS3+P/HKVp4RLfQLnxeCSWRW5LF+brEyZOBQcqOLjIuYRSxF9LpCLzgr0hCrHi1ZqmxuGcskaEvwBxZipR2NVGfwIhYJ1Xc3LKn67VfUb52zggd4x3uZoYJ4hMUOO1jaqRerdaAJvMEswYKvpAHHFAny3BwUSI+taGNX0S8vtAd+wRt2yxt3KBeYS+yCozRoeyQXnD1tRiZocZkpu2QZKXGezilbBDHi4jQppIJOQhYUyZrai0VMBL7P0JrUhbSW2JxQesko4+uu4NxVX9Xsus/aHW/9UTVYKmp4+dnlx2fMBV7uZN7cNYrTcQSY8qJSpW2kFtcU6Vsf5KyzsUlnf7WAnmpxR6UW0PbAV4yfqHqCK5zR1XpsH8ARslu++lYvPKjGTl1TvFrqxsvSql6aYU4kP5hrcKCA2NfF9rhc3PLwjOMZZ+HviAgcf2wR0XRWc9efOH0iqRYkO7wiayJ8aGiwW5EDiQ/2Fd+4liNwh/ruMX9WCxOPKrE8qqtIXUU04zhj4any+pajm27sElif2Wz/NYNj9VSI91EKcXcw+i84Elq3A8/haQXwEEFloODg9wwOYOjYsK56zjla1QwyRlKR11qeKaCmKeg2nG97W7vOLXvXsXbZy4vyCSrnb15l//Hgt2R2c2tWNvUxQinJcvy2aLbn/fkcBEHXvB96j57rDRS9rCZz07bKzjpE5nyYyJwjFtn0qEQmZTN+kU27RAaOTWTTcYnMbrP6R5LgkCCBJfyJLA8hwn2Xz29vaLed7ge42+mPvuu478wJWj2DwOB74L2CALS3gsB0dxDYpMy77T8mCNjtLZ+MAh3LsX2jwDsGRP8oAPxxRQHQ3ic0MluH20gPlZ7vm44ax3zsHMN8bDhtSrFj0TbqCRmObULuSoKwsAgEYWltwz6yVIfbNxk4xJ78JfAfzv8TPwC04NmX2SKEN987zrK+oCe1hrllAVK1VeaDcZX5MJlca1aodt9PZYu3DnZfpdLzu8X7JpVDjMFOKttD8A7LuCmhzfGgDD/q6Knc5r6WGj80kxuGDsak8yqTW8wZQt88bvglTgOWkECbRhyFBFenAylLVUzOzGpZtULSyFhTlOeNaXdQz0DQ0zN7nB3IYvUnh3Kyq/4qAq9/Ag==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-12T13:33:25.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="v5ZD1vELxG2x0_mHzamO" version="14.3.0" type="github">
+  <diagram id="xgx91Qhlt98eilZJFXm7" name="Page-1">
+    <mxGraphModel dx="925" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-6" value="Auto Push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="a4UhODL5tu5-3ZXzQEtq-1" target="a4UhODL5tu5-3ZXzQEtq-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-1" value="Master Branch" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="150" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-7" value="Auto Push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a4UhODL5tu5-3ZXzQEtq-2" target="a4UhODL5tu5-3ZXzQEtq-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-27" value="Weekly Deplyment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;" parent="1" source="a4UhODL5tu5-3ZXzQEtq-2" target="a4UhODL5tu5-3ZXzQEtq-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-2" value="PreProd Branch" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="480" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-20" value="Jenkin Deployment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;" parent="1" source="a4UhODL5tu5-3ZXzQEtq-3" target="a4UhODL5tu5-3ZXzQEtq-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-3" value="PreProd Server&lt;br&gt;glprepod.in" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-5" value="PreProd V2 Server&lt;br&gt;glprepod2.in" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="a4UhODL5tu5-3ZXzQEtq-8" target="a4UhODL5tu5-3ZXzQEtq-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="160" />
+              <mxPoint x="540" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-8" value="GL-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="100" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="a4UhODL5tu5-3ZXzQEtq-9" target="a4UhODL5tu5-3ZXzQEtq-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="160" />
+              <mxPoint x="540" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-9" value="GL-2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="190" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-19" value="Immediate Fix" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="a4UhODL5tu5-3ZXzQEtq-10" target="a4UhODL5tu5-3ZXzQEtq-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="190" />
+              <mxPoint x="210" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-10" value="GL-3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="280" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-25" value="Weekly Deployment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="1" source="a4UhODL5tu5-3ZXzQEtq-12" target="a4UhODL5tu5-3ZXzQEtq-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="160" />
+              <mxPoint x="540" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-12" value="GL-4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="390" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UhODL5tu5-3ZXzQEtq-13" value="Production Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zc8YA_tj23037TPwd3GZ-1" value="Take Local PrePord Branch Pull" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zc8YA_tj23037TPwd3GZ-3" value="Merge Master into GL-1 Branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zc8YA_tj23037TPwd3GZ-4" value="Merge GL-1 Branch into PreProd Branch" style="rounded=0;whiteSpace=wrap;html=1;comic=0;gradientColor=none;perimeterSpacing=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
